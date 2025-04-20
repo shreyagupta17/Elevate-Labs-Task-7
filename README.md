@@ -1,7 +1,7 @@
 # Elevate-Labs-Task-7
 # 📊 Sales Summary Report – Task 7
 
-This notebook was developed as part of the **Elevate Data Analyst Internship** program. The task focuses on connecting Python with a SQLite database to perform data extraction, summarize product-level sales, and visualize the findings through simple bar charts.
+This notebook was developed as part of the **Elevate Labs Data Analyst Internship** program. The task focuses on connecting Python with a SQLite database to perform data extraction, summarize product-level sales, and visualize the findings through simple bar charts.
 
 ---
 
